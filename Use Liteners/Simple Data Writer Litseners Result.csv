@@ -1,0 +1,60 @@
+1580803051220,1514,HTTP Request,200,OK,Thread Group 1-1,text,true,,176974,244,20,20,https://www.thedailystar.net/,166,0,111
+1580803051220,166,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,,true,,113,122,20,20,http://www.thedailystar.net/,166,0,111
+1580803051388,1346,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,176861,122,20,20,https://www.thedailystar.net/,180,0,125
+1580803051622,2001,HTTP Request,200,OK,Thread Group 1-9,text,true,,176976,244,19,19,https://www.thedailystar.net/,105,0,53
+1580803051622,105,HTTP Request-0,301,Moved Permanently,Thread Group 1-9,,true,,113,122,19,19,http://www.thedailystar.net/,105,0,53
+1580803051728,1895,HTTP Request-1,200,OK,Thread Group 1-9,text,true,,176863,122,19,19,https://www.thedailystar.net/,339,0,220
+1580803051571,2245,HTTP Request,200,OK,Thread Group 1-8,text,true,,176975,244,18,18,https://www.thedailystar.net/,152,0,99
+1580803051571,152,HTTP Request-0,301,Moved Permanently,Thread Group 1-8,,true,,113,122,18,18,http://www.thedailystar.net/,152,0,99
+1580803051723,2093,HTTP Request-1,200,OK,Thread Group 1-8,text,true,,176862,122,18,18,https://www.thedailystar.net/,289,0,181
+1580803051378,2690,HTTP Request,200,OK,Thread Group 1-4,text,true,,176976,244,17,17,https://www.thedailystar.net/,106,0,54
+1580803051378,106,HTTP Request-0,301,Moved Permanently,Thread Group 1-4,,true,,113,122,17,17,http://www.thedailystar.net/,106,0,54
+1580803051486,2582,HTTP Request-1,200,OK,Thread Group 1-4,text,true,,176863,122,17,17,https://www.thedailystar.net/,617,0,488
+1580803051271,2976,HTTP Request,200,OK,Thread Group 1-2,text,true,,176974,244,16,16,https://www.thedailystar.net/,115,0,60
+1580803051271,115,HTTP Request-0,301,Moved Permanently,Thread Group 1-2,,true,,113,122,16,16,http://www.thedailystar.net/,115,0,60
+1580803051388,2859,HTTP Request-1,200,OK,Thread Group 1-2,text,true,,176861,122,16,16,https://www.thedailystar.net/,180,0,125
+1580803051425,3157,HTTP Request,200,OK,Thread Group 1-5,text,true,,176975,244,15,15,https://www.thedailystar.net/,100,0,50
+1580803051425,100,HTTP Request-0,301,Moved Permanently,Thread Group 1-5,,true,,113,122,15,15,http://www.thedailystar.net/,100,0,50
+1580803051527,3055,HTTP Request-1,200,OK,Thread Group 1-5,text,true,,176862,122,15,15,https://www.thedailystar.net/,1390,0,1272
+1580803051825,3966,HTTP Request,200,OK,Thread Group 1-13,text,true,,176975,244,14,14,https://www.thedailystar.net/,211,0,82
+1580803051825,211,HTTP Request-0,301,Moved Permanently,Thread Group 1-13,,true,,113,122,14,14,http://www.thedailystar.net/,211,0,82
+1580803052037,3754,HTTP Request-1,200,OK,Thread Group 1-13,text,true,,176862,122,14,14,https://www.thedailystar.net/,402,0,274
+1580803051320,4908,HTTP Request,200,OK,Thread Group 1-3,text,true,,176975,244,13,13,https://www.thedailystar.net/,108,0,55
+1580803051320,108,HTTP Request-0,301,Moved Permanently,Thread Group 1-3,,true,,113,122,13,13,http://www.thedailystar.net/,108,0,55
+1580803051429,4799,HTTP Request-1,200,OK,Thread Group 1-3,text,true,,176862,122,13,13,https://www.thedailystar.net/,201,0,146
+1580803051722,4695,HTTP Request,200,OK,Thread Group 1-11,text,true,,176976,244,12,12,https://www.thedailystar.net/,159,0,92
+1580803051722,159,HTTP Request-0,301,Moved Permanently,Thread Group 1-11,,true,,113,122,12,12,http://www.thedailystar.net/,159,0,92
+1580803051882,4535,HTTP Request-1,200,OK,Thread Group 1-11,text,true,,176863,122,12,12,https://www.thedailystar.net/,999,0,873
+1580803051872,4986,HTTP Request,200,OK,Thread Group 1-14,text,true,,176975,244,11,11,https://www.thedailystar.net/,1253,0,111
+1580803051872,1253,HTTP Request-0,301,Moved Permanently,Thread Group 1-14,,true,,113,122,11,11,http://www.thedailystar.net/,1253,0,111
+1580803053126,3732,HTTP Request-1,200,OK,Thread Group 1-14,text,true,,176862,122,11,11,https://www.thedailystar.net/,390,0,270
+1580803052069,4862,HTTP Request,200,OK,Thread Group 1-18,text,true,,176975,244,10,10,https://www.thedailystar.net/,1253,0,1121
+1580803052069,1253,HTTP Request-0,301,Moved Permanently,Thread Group 1-18,,true,,113,122,10,10,http://www.thedailystar.net/,1253,0,1121
+1580803053322,3609,HTTP Request-1,200,OK,Thread Group 1-18,text,true,,176862,122,10,10,https://www.thedailystar.net/,1657,0,1524
+1580803052171,4845,HTTP Request,200,OK,Thread Group 1-20,text,true,,176976,244,9,9,https://www.thedailystar.net/,627,0,122
+1580803052171,627,HTTP Request-0,301,Moved Permanently,Thread Group 1-20,,true,,113,122,9,9,http://www.thedailystar.net/,627,0,122
+1580803052799,4217,HTTP Request-1,200,OK,Thread Group 1-20,text,true,,176863,122,9,9,https://www.thedailystar.net/,1590,0,1470
+1580803051672,5464,HTTP Request,200,OK,Thread Group 1-10,text,true,,176975,244,8,8,https://www.thedailystar.net/,147,0,53
+1580803051672,147,HTTP Request-0,301,Moved Permanently,Thread Group 1-10,,true,,113,122,8,8,http://www.thedailystar.net/,147,0,53
+1580803051821,5315,HTTP Request-1,200,OK,Thread Group 1-10,text,true,,176862,122,8,8,https://www.thedailystar.net/,315,0,185
+1580803051972,5275,HTTP Request,200,OK,Thread Group 1-16,text,true,,176975,244,7,7,https://www.thedailystar.net/,250,0,122
+1580803051972,250,HTTP Request-0,301,Moved Permanently,Thread Group 1-16,,true,,113,122,7,7,http://www.thedailystar.net/,250,0,122
+1580803052223,5024,HTTP Request-1,200,OK,Thread Group 1-16,text,true,,176862,122,7,7,https://www.thedailystar.net/,2075,0,1035
+1580803051474,5841,HTTP Request,200,OK,Thread Group 1-6,text,true,,176974,244,6,6,https://www.thedailystar.net/,139,0,53
+1580803051474,139,HTTP Request-0,301,Moved Permanently,Thread Group 1-6,,true,,113,122,6,6,http://www.thedailystar.net/,139,0,53
+1580803051614,5701,HTTP Request-1,200,OK,Thread Group 1-6,text,true,,176861,122,6,6,https://www.thedailystar.net/,367,0,121
+1580803052021,5356,HTTP Request,200,OK,Thread Group 1-17,text,true,,176976,244,5,5,https://www.thedailystar.net/,1249,0,1122
+1580803052021,1249,HTTP Request-0,301,Moved Permanently,Thread Group 1-17,,true,,113,122,5,5,http://www.thedailystar.net/,1249,0,1122
+1580803053271,4106,HTTP Request-1,200,OK,Thread Group 1-17,text,true,,176863,122,5,5,https://www.thedailystar.net/,1456,0,1208
+1580803051921,5594,HTTP Request,200,OK,Thread Group 1-15,text,true,,176975,244,4,4,https://www.thedailystar.net/,259,0,129
+1580803051921,259,HTTP Request-0,301,Moved Permanently,Thread Group 1-15,,true,,113,122,4,4,http://www.thedailystar.net/,259,0,129
+1580803052180,5335,HTTP Request-1,200,OK,Thread Group 1-15,text,true,,176862,122,4,4,https://www.thedailystar.net/,2146,0,2027
+1580803051525,6035,HTTP Request,200,OK,Thread Group 1-7,text,true,,176976,244,3,3,https://www.thedailystar.net/,150,0,85
+1580803051525,150,HTTP Request-0,301,Moved Permanently,Thread Group 1-7,,true,,113,122,3,3,http://www.thedailystar.net/,150,0,85
+1580803051676,5884,HTTP Request-1,200,OK,Thread Group 1-7,text,true,,176863,122,3,3,https://www.thedailystar.net/,1297,0,1166
+1580803052122,5521,HTTP Request,200,OK,Thread Group 1-19,text,true,,176976,244,2,2,https://www.thedailystar.net/,253,0,128
+1580803052122,253,HTTP Request-0,301,Moved Permanently,Thread Group 1-19,,true,,113,122,2,2,http://www.thedailystar.net/,253,0,128
+1580803052376,5267,HTTP Request-1,200,OK,Thread Group 1-19,text,true,,176863,122,2,2,https://www.thedailystar.net/,1052,0,922
+1580803051771,6095,HTTP Request,200,OK,Thread Group 1-12,text,true,,176977,244,1,1,https://www.thedailystar.net/,212,0,100
+1580803051771,212,HTTP Request-0,301,Moved Permanently,Thread Group 1-12,,true,,113,122,1,1,http://www.thedailystar.net/,212,0,100
+1580803051984,5882,HTTP Request-1,200,OK,Thread Group 1-12,text,true,,176864,122,1,1,https://www.thedailystar.net/,2852,0,2215

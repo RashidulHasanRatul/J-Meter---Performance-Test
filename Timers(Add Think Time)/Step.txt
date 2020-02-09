@@ -1,0 +1,21 @@
+Purpose - to pause thread (v.user) for some time
+   - to add delay between threads
+   - to avoid over flooding the server and achieve real time          behaviour by pacing the load
+
+ (to simulate v. user’s THINK TIME)
+
+Constant Timer
+Uniform Random Timer
+
+Random Delay Max
+Constant Delay Offset
+
+formula:
+0.X * Random Delay Max + Constant Delay Offset
+
+X : 0-9
+
+example:
+0.X * 100 + 0
+
+0 - 99 milli sec

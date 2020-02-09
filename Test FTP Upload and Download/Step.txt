@@ -1,0 +1,14 @@
+How to test FTP upload and download
+Step 1 : Add a FTP Request Sampler
+Step 2 : Add FTP connection parameters
+
+https://www.swfwmd.state.fl.us/data/ftp/
+Server: ftp.swfwmd.state.fl.us
+User Name: Anonymous
+(use your email address as password)
+
+If the above site is down you can find more options here:
+https://stackoverflow.com/questions/7...
+
+Step 3 : Test a FTP GET and validate (get file from ftp server to local system)
+Step 4 : Test a FTP PUT and validate (transfer file from local to ftp server)

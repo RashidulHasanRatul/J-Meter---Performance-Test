@@ -1,0 +1,10 @@
+listener = elements that gather information about the performance test
+used to view results/metrics of the test
+latency = time to first byte
+
+1. View Results in Table
+2. View Results Tree
+3. Aggregate Report
+4. Graph Results
+5. Summary Report
+6. Simple Data Writer

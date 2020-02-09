@@ -1,0 +1,13 @@
+Assertions =  checks on the Response
+
+1. Response Assertion
+
+2. Duration Assertion
+
+3. Size Assertion
+
+4. HTML Assertion
+
+5. XML Assertion
+
+6. XPATH Assertion

@@ -1,0 +1,11 @@
+Sample Link
+https://samples.openweathermap.org/data/2.5/weather?q=London,uk&appid=b6907d289e10d714a6e88b30761fae22
+
+
+For Soap Request =https://samples.openweathermap.org/data/2.5/weather?q=Bangladesh&appid=b12cda380bf99cf35fc5e10f89ef9ff
+
+For HTTTP Request
+samples.openweathermap.org
+/data/2.5/weather/
+q=Bangladesh
+&appid=b6907d289e10d714a6e88b30761fae22
