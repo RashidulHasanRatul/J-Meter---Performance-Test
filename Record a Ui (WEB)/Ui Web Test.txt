@@ -1,0 +1,13 @@
+1. Tools available for recording Jmeter ui test
+    - Badboy software (Windows)
+    - Blazemeter - Chrome Plugin - (Windows and Mac)
+
+2. Record a Test
+
+3. Export as Jmeter (.jmx) Script
+
+4. Open the script in Jmeter
+
+5. Add listeners
+
+6. Run and validate

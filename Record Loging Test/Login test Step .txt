@@ -1,0 +1,8 @@
+Step 1 : add blazemeter plugin to chrome browser
+Step 2 : start blazemeter plugin and login to blazemeter
+Step 3 : Record your scenario - Stop Recording - Export .jmx
+In case you find jmx option disabled export as json and use this link to convert to jmx
+http://converter.blazemeter.com/
+Step 4 : Import imx file in JMeter
+Step 5 : Add listeners
+Step 6 : Run and validate

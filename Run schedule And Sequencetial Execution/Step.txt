@@ -1,0 +1,37 @@
+HOW TO RUN A TEST FOR SPECIFIC DURATION 
+Thread Group - Forever - Scheduler - Duration
+HOW TO RUN PERFORMANCE TEST SEQUENTIALLY 
+Test Plan - Run Thread Group Consecutively
+HOW TO ADD WEBSITES SEQUENTIALLY TO A PERFORMANCE TEST
+Thread Group - Forever - Scheduler - Duration + Startup Delay
+_______________________________________________
+
+HOW TO RUN A TEST FOR SPECIFIC DURATION 
+Thread Group - Forever - Scheduler - Duration
+
+Step 1 : Thread Group - make loop count = forever
+Step 2: Select Scheduler checkbox
+Step 3 : Add duration (sec)
+
+———————————————————————————
+
+HOW TO RUN PERFORMANCE TEST SEQUENTIALLY 
+Test Plan - Run Thread Group Consecutively
+
+Step 1 : Test Plan - select Run Thread Groups consecutively
+
+———————————————————————————
+
+HOW TO ADD WEBSITES SEQUENTIALLY TO A PERFORMANCE TEST
+Thread Group - Forever - Scheduler - Duration + Startup Delay
+
+Step 1 : Add duration (max) to first thread group - 30 sec
+
+Step 2 : To consecutive thread groups add delay 
+
+example (for a 30 sec test plan):
+1st Thread Group : delay = 0 sec  |  duration = max duration of the test = 30 sec
+
+2nd Thread Group : delay = 10 sec  |  duration = max - delay = 30 - 10 = 20 sec
+
+3rd Thread Group : delay = 20 sec  |  duration = max - delay = 30 - 20 = 10 sec
