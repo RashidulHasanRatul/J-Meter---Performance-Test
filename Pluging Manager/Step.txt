@@ -1,0 +1,9 @@
+Install new plugins
+Remove old plugins
+Upgrade existing plugins
+Information on plugins
+
+Step 1 : Download jmeter plugin manager jar and add to jmeter/lib/ext folder
+   (Restart Jmeter)
+
+Step 2 : Find Plugin Manager under options Menu

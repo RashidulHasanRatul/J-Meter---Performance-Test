@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jmeterTestPlan version="1.2" properties="5.0" jmeter="5.2.1">
+  <hashTree>
+    <SyncTimer guiclass="TestBeanGUI" testclass="SyncTimer" testname="Synchronizing Timer" enabled="true">
+      <intProp name="groupSize">10</intProp>
+      <longProp name="timeoutInMs">0</longProp>
+    </SyncTimer>
+    <hashTree/>
+  </hashTree>
+</jmeterTestPlan>

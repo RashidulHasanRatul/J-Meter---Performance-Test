@@ -1,0 +1,5 @@
+(To upload files with different names to FTP)
+Step 1 : add CSV Data Set Config
+Step 2 : create a csv file and provide its location in CSV Data Set Config
+Step 3 : parametrize FTP PUT request to take value from csv file
+Step 4 : Run and Validate
