@@ -1,0 +1,4 @@
+Step 1 : Add config element - CSV Data Set Config
+Step 2 : Add details in CSV Data Set Config
+Step 3 : Update value fields: ${variable_name}
+Step 4 : Run and validate
