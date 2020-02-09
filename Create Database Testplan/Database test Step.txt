@@ -1,0 +1,28 @@
+Step 1 - Add mysql jdbc jar to Jmeter lib folder | Restart Jmeter
+       https://dev.mysql.com/downloads/conne...
+
+How to create free DB - https://www.youtube.com/watch?v=NkaJu...
+
+Step 2 - Add Thread Group
+
+Step 3 - Add JDBC Conn Config | Provide the details of our DB
+
+JDBC URL Format
+
+Useful Tip:
+
+The general format for a JDBC URL for connecting to a MySQL server is as follows, with items in square brackets ([ ]) being optional:
+
+jdbc:mysql://[host1][:port1][,[host2][:port2]]...[/[database]] »
+[?propertyName1=propertyValue1[&propertyName2=propertyValue2]...]
+Here is a simple example for a connection URL:
+
+jdbc:mysql://localhost:3306/sakila?profileSQL=true
+
+Ref : https://dev.mysql.com/doc/connector-j...
+
+Step 4 - Add JDBC Request
+
+Step 5 - Add Listeners
+
+Step 6 - Run and validate

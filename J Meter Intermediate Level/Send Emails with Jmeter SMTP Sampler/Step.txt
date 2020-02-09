@@ -1,0 +1,17 @@
+1. How to load test email server
+
+2. Configure SMTP sampler to send email
+________________________________________
+
+Step 1 : download javamail jar and put in jmeter lib folder - restart jmeter
+   https://java.net/projects/javamail/pa...
+
+Step 2 : Create TestPlan - add ThreadGroup - add Sampler SMTP
+
+Step 3 : Add data in sampler
+  smtp.googlemail.com / smtp.gmail.com
+  587 / 465
+
+Step 4 : Add listeners to view test results
+
+Step 5 : Run and validate

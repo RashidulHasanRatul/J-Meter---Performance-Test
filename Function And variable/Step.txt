@@ -1,0 +1,17 @@
+unctions : any method that can populate a field in any other element of a test plan
+ syntax : ${__functionName}
+                ${__functionName(var1, var2, …..)}
+
+variable : container that can store a value which can be referenced by any other element within the thread. (local to a thread)
+ syntax : ${variableName}
+
+function - caseSensitive | camelCasing 
+
+Functions:
+—————
+1. log  - ${__log(“message”)}
+2. time - 
+3. threadNum
+4. intSum
+
+Options - Jmeter Function Helper

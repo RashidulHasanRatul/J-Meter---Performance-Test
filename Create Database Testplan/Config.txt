@@ -1,0 +1,2 @@
+jdbc:mysql://db4free.net:3306/ratul12
+com.mysql.jdbc.Driver

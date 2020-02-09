@@ -1,0 +1,32 @@
+Step 1: Open JMeter
+
+Step 2: Add plugin   
+JMeter - Plugin Manager - Selenium/WebDriver Support   https://github.com/undera/jmeter-plug...
+https://github.com/undera/jmeter-plug...
+
+
+Step 3: Create a test plan - add thread group 
+
+Step 4: Add
+   Config Element - jp@gc - Chrome Driver Config    
+                        Sampler - jp@gc - Web Driver Sampler
+   Listener - View Results Tree
+
+Step 5: Download chromedriver.exe and provide the location in   Chrome Driver Config   e.g. - D:\Desktop\drivers\chromedriver\chromedriver.exe
+
+Step 6 : Add scripts in Web Driver Sampler
+   e.g:
+    WDS.sampleResult.sampleStart()
+    WDS.browser.get('https://google.com')
+    WDS.sampleResult.sampleEnd()
+
+    WDS.sampleResult.sampleStart()
+    WDS.browser.get("https://www.google.com/");
+    var searchBox = WDS.browser.findElement(org.openqa.selenium.By.name("q"));
+    searchBox.click();
+    searchBox.sendKeys('Test');
+    searchBox.sendKeys(org.openqa.selenium.Keys.ENTER);
+    WDS.sampleResult.sampleEnd()
+
+
+Step 7 : Run & Validate
